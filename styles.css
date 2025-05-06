@@ -1,0 +1,41 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    margin: 20px;
+}
+
+h1, h2 {
+    color: black;
+}
+
+h1 {
+    text-align: center;
+}
+
+.description {
+    color: cadetblue;
+}
+
+li {
+    padding: 8px;
+}
+
+ul > li {
+    color: crimson;
+}
+
+ul > .odd {
+    color: blue;
+}
+
+ol > li {
+    color: blue;
+}
+
+ol > .odd {
+    color: crimson;
+}
+
+img {
+    display: block;
+    margin: 0px auto;
+}
